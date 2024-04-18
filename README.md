@@ -8,7 +8,7 @@ A travel company wants to have a hotel reservation system so that its clients ca
 
 Plantilla con Spring boot noviembre 2015
 ## Configuarcion inicial de las dependencias 
- Lo primero que debemos hacer es configurar y agregar las dependencias de spring  en el archivo  **pom.xml**. Debes agregar las siguientes dependencias antes del cierre de la etiqueta ```</project>```
+The first thing we need to do is configure and add the spring dependencies in the **pom.xml** file. You must add the following dependencies before closing the tag
 ```
 <dependencyManagement>
         <dependencies>
